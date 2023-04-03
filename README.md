@@ -1,7 +1,8 @@
 ### Hi there I'm Colton!
+---
 
 
-I'm a computer science student from Canada. :canada: 
+I'm a computer science student from Canada. 
 
 💻 Currently Working On:
 ---
