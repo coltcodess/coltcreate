@@ -1,6 +1,12 @@
-### Hi there!
+### Hi there I'm Colton!
 
-My name is Colton and I'm a computer science student from Canada. 👋
+
+I'm a computer science student from Canada. 👋
+
+💻 Currently Working On:
+- Getting my Computer Science degree
+
+🛠 Tech Stack:
 
 <!--
 **coltcreate/coltcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
