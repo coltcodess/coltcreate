@@ -1,4 +1,4 @@
-Hi there I'm Colton!
+Hey there I'm Colton!
 ---
 
 
